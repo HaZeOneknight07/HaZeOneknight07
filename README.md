@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaZeOneknight07
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning JavaScript, React & Firebase
 - I’m looking to collaborate on Website Development
 
 
