@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaZeOneknight07
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning React (JS & Native) and MongoDB. 
+- 🌱 I’m currently learning Electron. 
 - I’m looking to collaborate on Website Development
 
 
